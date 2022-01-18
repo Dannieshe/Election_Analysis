@@ -30,3 +30,7 @@ The Colorado Board of Elections has tasked me with auditing the Congressional el
   - Diana DeGette: 73.8% (272,892)
   - Raymon Anthony Doane: 3.1% (11,606) 
 - The winner of the election was Diana Degette with 272,892 votes and 73.8% of the total votes placed. 
+
+![Command_Line_shot](https://user-images.githubusercontent.com/95733724/149895975-a2ea77e0-f6bc-4172-b016-4d7a4dfe7244.png)
+
+![Analysis_text_shot](https://user-images.githubusercontent.com/95733724/149896303-aecc2c14-336f-45ef-9dd8-e64093ae7504.png)
